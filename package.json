@@ -2,7 +2,7 @@
   "name": "hardhat-arbitrum",
   "version": "0.0.1",
   "description": "Hardhat plugin for Arbitrum",
-  "repository": "https://github.com/climax-solution/hardhat-arbitrum",
+  "repository": "https://github.com/satrianak/hardhat-arbitrum-one",
   "author": "Alyosha Agapov",
   "license": "MIT",
   "main": "dist/src/index.js",
